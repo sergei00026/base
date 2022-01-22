@@ -119,7 +119,7 @@ body {
 /* ---HEADER------------------------------------------- */
 .header {
 	padding: 0 0 228px 0;
-	background: url("/img/header/bg.jpg") center center/ cover no-repeat;
+	background: url("./img/header/bg.jpg") center center/ cover no-repeat;
 }
 .header__container {
 }
@@ -699,7 +699,7 @@ mm
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	background: url("/img/special/bg.jpg") 50% 50% / cover no-repeat;
+	background: url("./img/special/bg.jpg") 50% 50% / cover no-repeat;
 	padding: 60px 0 461px 0;
 }
 .special__title {
@@ -724,7 +724,7 @@ mm
 	margin: 0 71px 0 0;
 }
 .counter-special__circle {
-	background: url("/img/special/01.svg") 50% 50% / cover no-repeat;
+	background: url("./img/special/01.svg") 50% 50% / cover no-repeat;
 	width: 66px;
 	height: 66px;
 	display: flex;
